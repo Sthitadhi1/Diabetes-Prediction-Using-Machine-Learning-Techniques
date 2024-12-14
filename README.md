@@ -111,13 +111,10 @@ plt.show()
 
 Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements or new features.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-- The dataset source (if applicable).
+- The dataset source-National Institute of Diabetes and Digestive and Kidney Diseases
 - Scikit-learn documentation for model training and evaluation methods.
 - Matplotlib and Seaborn for data visualization.
 
